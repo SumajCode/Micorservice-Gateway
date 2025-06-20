@@ -7,7 +7,7 @@
 ## Instalación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/SumajCode/MicroService-Estudiante.git
+git clone https://github.com/SumajCode/Micorservice-Gateway.git
 cd tu-repo
 
 ```

@@ -1,5 +1,5 @@
 # prod
-dist/
+dist/ 
 
 # dev
 .yarn/
@@ -31,3 +31,4 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+# ok

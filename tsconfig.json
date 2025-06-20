@@ -1,0 +1,28 @@
+//ultima configuracion
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true
+  },
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
+  }
+}
+
+//configuracion anterior de tsconfig.json
+// {
+//   "compilerOptions": {
+//     "target": "ES2020",
+//     "module": "ESNext",
+//     "moduleResolution": "node",
+//     "esModuleInterop": true,
+//     "strict": true
+//   },
+//   "include": ["src"]
+// }
